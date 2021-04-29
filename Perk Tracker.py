@@ -14,16 +14,16 @@ import math
 ############################################################################################################################################################################
 
 #declaring Variables for the tree and screen
-dokument = xml.dom.minidom.parse("H:\Dropbox\Perk Tracker\Template.prk")
+dokument = xml.dom.minidom.parse("Template.prk")
 perklist = dokument.documentElement
 
 ########################################################################################################
 
 #erschafft fenster
 global window
-window = tk.Tk()
+window = tk.Tk() 
 
-#setzt standard größe
+#sets initial window size
 window.geometry('1550x872')
 
 #setzt fenster name
@@ -31,8 +31,7 @@ window.title("Perk Tracker")
 
 ########################################################################################################
 
-#dicts für charactere
-
+#dicts for characters
 global survivors
 global killer
 global dict
@@ -123,8 +122,7 @@ class perk:
 
         self.btn_possessed = tk.Button(master = self.frm, bg = self.bg, width = 2, height = 1)
         self.btn_unlocked = tk.Button(master = self.frm, bg = self.bg, width = 2, height = 1)
-
-        self.load = PhotoImage(file = fr"H:\Dropbox\Perk Tracker\img\{self.name}.png")
+        self.load = PhotoImage(file=fr"img\{self.name}.png")
         self.img = tk.Label(self.frm, image = self.load, background = self.bg)
 
         self.text = tk.Label(master = self.frm, text = self.name, background=self.bg)
