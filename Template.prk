@@ -1,0 +1,1442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perklist>
+ 
+    <survivors>
+        <perk name="dark_sense">
+
+                <name>Dark Sense</name>
+
+                <survivor/>
+
+                <unlocked>True</unlocked>
+
+                <description lang="en">
+                Unlocks potential in your Aura-reading ability.
+                Each time a Generator is completed, the Killer's Aura is revealed to you for 5 seconds and for 5/7/10 seconds when the last Generator is completed.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+                
+            </perk>
+        <perk name="deja_vu">
+
+            <name>Deja Vu</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            Unlocks potential in your Aura-reading ability.
+            Paranoia paired with your horror of failure helps prepare you from repeating the same mistakes.
+            The Auras of 3 Generators in closest proximity to one another are revealed to you for 30/45/60 seconds at the start of the Trial, and each time a Generator is completed.
+            If you are holding a Map, Generators revealed by Déjà Vu are automatically added to it.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="hope">
+
+            <name>Hope</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            The growing odds of a successful escape fill you with hope and give you wings.
+            As soon as the Exit Gates are powered, you gain a 5/6/7 % Haste Status Effect for 120 seconds.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>     
+
+            </perk>
+        <perk name="kindred">
+
+            <name>Kindred</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            Unlocks potential in your Aura-reading ability.
+        
+            While you are hooked:
+            The Auras of all Survivors are revealed to one another.
+            Whenever the Killer is within 8/12/16 metres of your Hook, their Aura is revealed to all Survivors.
+
+            While another Survivor is hooked:
+            The Auras of all other Survivors are revealed to you.
+            Whenever the Killer is within 8/12/16 metres of the hooked Survivor, their Aura is revealed to you.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="lightweight">
+
+            <name>Lightweight</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            Your running is light and soft, making your tracks harder to follow.
+            Your Scratch Marks start to disappear 1/2/3 seconds sooner.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="no_one_left_behind">
+
+            <name>No One Left Behind</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            It is inconceivable to leave someone behind.
+            Once at least one Exit Gate has been opened, No One Left Behind activates:
+            Gain a 30/40/50 % Action Speed bonus to Unhooking and Healing other Survivors.
+            The Auras of all other Survivors are revealed to you.
+            No One Left Behind grants 50/75/100 % bonus Bloodpoints for actions in the Altruism Category.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="plunderers_instinct">
+
+            <name>Plunderers Instinct</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            Unlocks potential in your Aura-reading ability.
+            The Auras of closed Chests and dropped Items throughout the Trial Grounds are revealed to you within 16/24/32 metres.
+            Grants a considerably better chance at finding an Item of a higher Rarity from Chests.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="premonition">
+
+            <name>Premonition</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            You have the undeniable capability to sense danger.
+            Get an auditory warning when looking in the Killer's direction within a 45° cone within 36 metres.
+            Premonition has a cool-down of 60/45/30 seconds each time it activates.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="resilience">
+
+            <name>Resilience</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            You are motivated in dire situations.
+            When injured, your Action speeds in Repairing, Healing, Sabotaging, Unhooking, Vaulting, Cleansing, Opening, and Unlocking are increased by 3/6/9 %.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="slippery_meat">
+
+            <name>Slippery Meat</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            You have developed an efficient way to get off Hooks.
+            Grants 3 additional Self-Unhook attempts.
+            Your Self-Unhook chance is increased by 2/3/4 %.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="small_game">
+
+            <name>Small Game</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            You have the undeniable capability to sense danger.
+
+            Get an auditory warning when looking in the direction of Killer Traps and Totems in a 45° cone within a range of 8/10/12 metres.
+            Killer Traps include Bear Traps, Dream Pallets, and Phantasm Traps.
+            For Phantasm Traps, the Detection range is increased by an additional 4 metres.
+            Small Game has a cool-down of 15/12/10 seconds each time it activates.
+
+            Only works on Killer Traps that were set by the Killer.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="spine_chill">
+
+            <name>Spine Chill</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            An unnatural tingle warns you of impending doom.
+            Whenever the Killer is looking in your direction when within 36 metres of you, Spine Chill activates:
+            Skill Check Trigger odds are increased by 10 %.
+            Skill Check Success zones are reduced by 10 %.
+            Your Actions speeds in Repairing, Healing, Sabotaging, Unhooking, Vaulting, Cleansing, Opening, and Unlocking are increased by 2/4/6 %.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="this_is_not_happenin">
+
+            <name>This Is Not Happening</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            You perform at your best when you are under extreme stress.
+            When injured, the Success zone of Great Skill Checks while Repairing, Healing, and Sabotaging is increased by 10/20/30 %.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+        <perk name="well_make_it">
+
+            <name>Well make it</name>
+
+            <survivor/>
+
+            <unlocked>True</unlocked>
+
+            <description lang="en">
+            Helping others heightens your morale.
+            Whenever you rescue a Survivor from a Hook, your Altruistic Healing speed is increased by 100 % for the next 30/60/90 seconds.
+            </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="bond">
+
+                <name>Bond</name>
+
+                <survivor id='001'>Dwight Fairfield</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Unlocks potential in your Aura-reading ability.
+                The Auras of other Survivors are revealed to you when they are within a range of 20/28/36 metres.
+                </description>
+
+                <dwight_fairfield>True</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="leader">
+        
+                <name>Leader</name>
+
+                <survivor id='001'>Dwight Fairfield</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                You are able to organise a team to cooperate more efficiently.
+                When other Survivors are within 8 metres of you, Leader increases their Action speeds for Healing, Sabotaging, Unhooking, Cleansing, Opening, and Unlocking actions by 15/20/25 %.
+                This effect lingers for 15 seconds when leaving Leader's range.
+                Leader does not stack with other instances of itself.
+                </description>
+
+                <dwight_fairfield>True</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="prove_thyself">
+        
+                <name>Prove Thyself</name>
+
+                <survivor id='001'>Dwight Fairfield</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Gain a stack-able 15 % Repair Speed bonus for each Survivor within 4 metres of you, up to a maximum of 45 %.
+                This effect is also applied to all other Survivors within that range.
+                Prove Thyself grants 50/75/100 % bonus Bloodpoints for Co-operative actions.
+                Prove Thyself does not stack with other instances of itself.
+                </description>
+
+                <dwight_fairfield>True</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+    
+        <perk name="adrenalin">
+        
+                <name>Adrenalin</name>
+
+                <survivor id='002'>Meg Thomas</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                You are fuelled by unexpected energy when on the verge of escape. 
+                When the Exit Gates are powered, instantly heal one Health State and sprint at 150 % of your normal Running speed for 5 seconds. 
+                Adrenaline is on hold if you are disabled at the moment it triggers and will instead activate upon being freed.
+                If playing against The Nightmare, Adrenaline will wake you from the Dream World upon activation. 
+                Adrenaline ignores an existing Exhaustion timer, but causes the Exhausted Status Effect for 60/50/40 seconds.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>True</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk> 
+
+        <perk name="quick_and_quiet">
+        
+                <name>Quick &amp; Quiet</name>
+
+                <survivor id='002'>Meg Thomas</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                You do not make as much noise as others when quickly vaulting over obstacles or hiding in Lockers.
+                Loud Noise notifications for rushing to vault Windows, or to enter or exit Lockers are completely suppressed. 
+                Quick &amp; Quiet has a cool-down of 30/25/20 seconds.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>True</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk> 
+
+        <perk name="sprint_burst">
+        
+                <name>Sprint Burst</name>
+
+                <survivor id='002'>Meg Thomas</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                When starting to run, break into a sprint at 150 % of your normal running speed for a maximum of 3 seconds.
+                Sprint Burst causes the Exhausted Status Effect for 60/50/40 seconds.
+                Sprint Burst cannot be used when Exhausted.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>True</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="botany_knowledge">
+        
+                <name>Botany Knowledge</name>
+
+                <survivor id='003'>Claudete Morel</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                You transform plants found around The Campfire into tinctures that slow down bleeding.
+                Healing speeds and the efficiency of Med-Kits are increased by 11/22/33 %.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>True</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="empathy">
+        
+                <name>Empathy</name>
+
+                <survivor id='003'>Claudete Morel</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Unlocks potential in your Aura-reading ability.
+                The Auras of dying or injured Survivors are revealed to you within a range of 64/96/128 metres.
+                Empathy does not reveal the Aura of a Survivor currently being carried by the Killer.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>True</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="self_care">
+        
+                <name>Self Care</name>
+
+                <survivor id='003'>Claudete Morel</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Unlocks the ability to heal yourself without needing a Med-Kit at 50 % of the normal Healing speed.
+                When using a Med-Kit, its Depletion rate is decreased by 10/15/20 %.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>True</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="calm_spirit">
+        
+                <name>Calm Spirit</name>
+
+                <survivor id='004'>Jake Park</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Animals seem to trust you as they often stay calm in your presence.
+                The chances of alerting nearby Crows are reduced by 80/90/100 % and your urge to scream from pain is suppressed.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>True</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="iron_will">
+        
+                <name>Iron Will</name>
+
+                <survivor id='004'>Jake Park</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                You are able to concentrate and enter a meditative-like state to numb some pain.
+                When injured, Grunts of Pain are reduced by 50/75/100 %.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>True</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="saboteur">
+        
+                <name>Saboteur</name>
+
+                <survivor id='004'>Jake Park</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Unlocks potential in your Aura-reading ability. 
+                While a Survivor is being carried, the Auras of all Hooks within 56 metres the location they were picked up at are revealed to you.
+                Unlocks the ability to sabotage Hooks without needing a Toolbox. 
+                Sabotaging a Hook without a Toolbox takes 3 seconds.
+                The Sabotage action has a cool-down of 90/75/60 seconds.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>True</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="balanced_landing">
+        
+                <name>Balanced Landing</name>
+
+                <survivor id='005'>Nea Karlsson</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Your agility and cat-like reflexes are incomparable.When falling from great heights. 
+                Your Stagger duration is reduced by 75 % and your grunts are muffled by 100 %.
+                Upon landing, you start sprinting at 150 % of your normal running speed for a maximum of 3 seconds.
+                Balanced Landing causes the Exhausted Status Effect for 60/50/40 seconds.Balanced Landing cannot be used when Exhausted.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>True</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="streetwise">
+        
+                <name>Streetwise</name>
+
+                <survivor id='005'>Nea Karlsson</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Long nights out taught you to do a lot with what you have got.
+                The Depletion rate of your Items is reduced by 15/20/25 %.
+                This effect also applies to all other Survivors within 8 metres of you and lingers for 15 seconds.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>True</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="urban_evasion">
+        
+                <name>Urban Evasion</name>
+
+                <survivor id='005'>Nea Karlsson</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Years of evading the cops taught you a thing or two about stealth.
+                When crouching, your Movement speed is increased by 90/95/100 %.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>True</nea_karlsson>
+                <laurie_strode>False</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="decisive_strike">
+        
+                <name>Decisive Strike</name>
+
+                <survivor id='006'>Decisive Strike</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                Using whatever is at hand, you stab at your aggressor in an ultimate attempt to escape.
+                After being unhooked or unhooking yourself, Decisive Strike activates for the next 40/50/60 seconds:
+                When being grabbed or picked up by the Killer, succeed a Skill Check.png to automatically escape their grasp, stunning them for 5 seconds.
+                Successfully stunning the Killer will disable Decisive Strike for the remainder of the Trial and result in you becoming the Obsession.
+                While Decisive Strike is active, the following interactions will deactivate it:
+                Repairing a Generator.
+                Healing yourself or other Survivors.
+                Cleansing a Totem.
+                Sabotaging a Hook.
+                Unhooking other Survivors.
+                Increases the odds of being the Obsession.
+                The Killer can only be obsessed with one Survivor at a time.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>True</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="object_of_obsession">
+        
+                <name>Object of Obsession</name>
+
+                <survivor id='006'>Laurie Strode</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                A supernatural bond links you to the Killer.
+                If you are looking in the Killer's direction while outside of their Terror Radius, your link will reveal your Auras to each other.
+                If you are the Killer's Obsession, this effect applies up to a maximum range of 56/64/72 metres.
+                If you are not the Killer's Obsession, this effect only applies up to a maximum range of 44/56/64 metres.
+                Increases the odds of being the Obsession.
+                The Killer can only be obsessed with one Survivor at a time.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>True</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+        <perk name="sole_survivor">
+        
+                <name>Sole Survivor</name>
+
+                <survivor id='006'>Laurie Strode</survivor>
+
+                <unlocked>False</unlocked>
+
+                <description lang="en">
+                As more of your friends fall to the Killer, you become shrouded in isolation and the Killer's Aura-reading abilities towards you are disrupted.
+                Each time a Survivor other than yourself is killed or sacrificed, Sole Survivor gains 1 Token, up to a maximum of 3 Tokens:
+                Each Token grants a stack-able radius of 20/22/24 metres within which the Killer is unable to read your Aura, up to a maximum of 60/66/72 metres.
+                Increases the odds of being the Obsession.
+                The Killer can only be obsessed with one Survivor at a time.
+                </description>
+
+                <dwight_fairfield>False</dwight_fairfield>
+                <meg_thomas>False</meg_thomas>
+                <claudete_morel>False</claudete_morel>
+                <jake_park>False</jake_park>
+                <nea_karlsson>False</nea_karlsson>
+                <laurie_strode>True</laurie_strode>
+                <ace_visconti>False</ace_visconti>
+                <william_bill_overbeck>False</william_bill_overbeck>
+                <feng_min>False</feng_min>
+                <david_king>False</david_king>
+                <quentin_smith>False</quentin_smith>
+                <david_tapp>False</david_tapp>
+                <kate_denson>False</kate_denson>
+                <adam_francis>False</adam_francis>
+                <jeffrey_jeff_johansen>False</jeffrey_jeff_johansen>
+                <jane_romero>False</jane_romero>
+                <ash_williams>False</ash_williams>
+                <nancy_wheeler>False</nancy_wheeler>
+                <steve_harrington>False</steve_harrington>
+                <yui_kimura>False</yui_kimura>
+                <zarina_kassir>False</zarina_kassir>
+                <cheryl_mason>False</cheryl_mason>
+                <felix_richter>False</felix_richter>
+                <elodie_rakoto>False</elodie_rakoto>
+                <yun-jin_lee>False</yun-jin_lee>
+
+            </perk>
+
+
+    </survivors>
+    <killer>
+        <perk name="bitter_murmur">
+
+                <name>Bitter Murmur</name>
+
+                <killer/>
+
+                <unlocked/>
+
+                <description lang="en">
+                Unlocks potential in your Aura-reading ability.
+                Each time a Generator IconHelpLoading generators.png is completed, the Auras IconHelp auras.png of Survivors who are within 16 metres of the completed Generator will be revealed to you for 5 seconds.
+                When the last Generator is completed, the Auras of all Survivors are shown for 5/7/10 seconds.
+                </description>
+
+                <trapper>False</trapper>
+                <wraith>False</wraith>
+                <hillbilly>False</hillbilly>
+                <nurse>False</nurse>
+                <shape>False</shape>
+                <hag>False</hag>
+                <doctor>False</doctor>
+                <huntress>False</huntress>
+                <canibal>False</canibal>
+                <nightmare>False</nightmare>
+                <pig>False</pig>
+                <clown>False</clown>
+                <spirit>False</spirit>
+                <legion>False</legion>
+                <plague>False</plague>
+                <ghostface>False</ghostface>
+                <demogorgon>False</demogorgon>
+                <oni>False</oni>
+                <deathslinger>False</deathslinger>
+                <excecutioner>False</excecutioner>
+                <blight>False</blight>
+                <twins>False</twins>
+                <trickster>False</trickster>
+
+            </perk>
+        <perk name="deerstalker">
+
+                <name>Deerstalker</name>
+
+                <killer/>
+
+                <unlocked/>
+
+                <description lang="en">Unlocks potential in your Aura-reading ability.
+                The Auras IconHelp auras.png of Survivors who are in the Dying State IconHelp dying.png are revealed to you when they are within a range of 20/28/36 metres.
+                </description>
+
+                <trapper>False</trapper>
+                <wraith>False</wraith>
+                <hillbilly>False</hillbilly>
+                <nurse>False</nurse>
+                <shape>False</shape>
+                <hag>False</hag>
+                <doctor>False</doctor>
+                <huntress>False</huntress>
+                <canibal>False</canibal>
+                <nightmare>False</nightmare>
+                <pig>False</pig>
+                <clown>False</clown>
+                <spirit>False</spirit>
+                <legion>False</legion>
+                <plague>False</plague>
+                <ghostface>False</ghostface>
+                <demogorgon>False</demogorgon>
+                <oni>False</oni>
+                <deathslinger>False</deathslinger>
+                <excecutioner>False</excecutioner>
+                <blight>False</blight>
+                <twins>False</twins>
+                <trickster>False</trickster>
+            </perk>
+    </killer>
+
+</perklist>
